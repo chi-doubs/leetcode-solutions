@@ -9,3 +9,9 @@
 - Difficulty: Easy
 - Pattern: Array, HashTable  
 - Gist: https://gist.github.com/chi-doubs/54df71845367650d70375b8f65bcfc45
+
+- ## 2026-01-03
+- Problem: Number of Ways to Paint N × 3 Grid
+- Difficulty: Hard
+- Pattern: Dynamic Programming
+- Gist: https://gist.github.com/chi-doubs/eebfbc35e34a0626241a0199244a6278
