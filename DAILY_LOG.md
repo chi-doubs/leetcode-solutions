@@ -15,3 +15,9 @@
 - Difficulty: Hard
 - Pattern: Dynamic Programming
 - Gist: https://gist.github.com/chi-doubs/eebfbc35e34a0626241a0199244a6278
+
+- - ## 2026-01-05
+- Problem: Maximum Matrix Sum
+- Difficulty: Medium
+- Pattern: Greedy Algo
+- Gist: https://gist.github.com/chi-doubs/28381236707baa6aceb75cc9bf71225b
